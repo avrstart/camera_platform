@@ -2,6 +2,7 @@
 Qt gui control for moving platform with camera
 
 Protocol description:
+
 '*' - start byte
 00-0xFFFF - cmd 2 bytes 
 00-0xFFFF - data 2 bytes
